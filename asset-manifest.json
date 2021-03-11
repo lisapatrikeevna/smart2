@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/smart2/static/css/main.63e587f7.chunk.css",
-    "main.js": "/smart2/static/js/main.19b2d3f3.chunk.js",
-    "main.js.map": "/smart2/static/js/main.19b2d3f3.chunk.js.map",
+    "main.js": "/smart2/static/js/main.981096d4.chunk.js",
+    "main.js.map": "/smart2/static/js/main.981096d4.chunk.js.map",
     "runtime-main.js": "/smart2/static/js/runtime-main.cd691436.js",
     "runtime-main.js.map": "/smart2/static/js/runtime-main.cd691436.js.map",
     "static/css/2.fb346933.chunk.css": "/smart2/static/css/2.fb346933.chunk.css",
     "static/js/2.30383026.chunk.js": "/smart2/static/js/2.30383026.chunk.js",
     "static/js/2.30383026.chunk.js.map": "/smart2/static/js/2.30383026.chunk.js.map",
     "index.html": "/smart2/index.html",
-    "precache-manifest.1a117b3b5aa2fc75d01bd22dc3cf299a.js": "/smart2/precache-manifest.1a117b3b5aa2fc75d01bd22dc3cf299a.js",
+    "precache-manifest.55706e7275477f7ff4acb603d28b137e.js": "/smart2/precache-manifest.55706e7275477f7ff4acb603d28b137e.js",
     "service-worker.js": "/smart2/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/smart2/static/css/2.fb346933.chunk.css.map",
     "static/css/main.63e587f7.chunk.css.map": "/smart2/static/css/main.63e587f7.chunk.css.map",
@@ -34,6 +34,6 @@
     "static/css/2.fb346933.chunk.css",
     "static/js/2.30383026.chunk.js",
     "static/css/main.63e587f7.chunk.css",
-    "static/js/main.19b2d3f3.chunk.js"
+    "static/js/main.981096d4.chunk.js"
   ]
 }
