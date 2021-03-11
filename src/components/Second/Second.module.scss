@@ -1,0 +1,84 @@
+.Second {
+  .container {
+    display: block;
+    .all {
+      display: flex;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+      text-align: center;
+      margin-bottom: 69px;
+      .wrapItems {
+          width: 28%;
+          margin-top: 21px;
+        .borderImg {
+          width: 70px;
+          height: 70px;
+          margin: 0 auto;
+          display: flex;
+          border: 2px solid;
+          border-radius: 50px;
+          justify-content: center;
+          align-items: center;
+            img{
+                width: 40px;
+            }
+        }
+
+        .uppercase {
+            text-transform: uppercase;
+            text-align: center;
+            margin: 9px auto;
+            font-weight: bold;
+            font-size: 13px;
+            letter-spacing: 0.05em;
+          &:after {
+            display: block;
+            content: '';
+            width: 63px;
+            height: 1px;
+            background: #f67f72;
+            margin: 3px auto;
+          }
+        }
+      }
+        .textItem{
+            font-size: 12px;
+        }
+    }
+  }
+  .fudi {
+    background: #f7f7f7;
+    padding-top: 21px;
+    height: 595px;
+    overflow: hidden;
+    .mobileImg {
+      width: 444px;
+      margin-left: 19px;
+    }
+    .wrapFudi {
+      margin-left: 103px;
+      width: 386px;
+      margin-top: 30px;
+      .fudiTitle {
+        margin: 22px 0 16px;
+        font-size: 14px;
+        span{
+          border-bottom: 1px solid #f67f72;
+          padding-bottom: 4px;
+        }
+      }
+      .desc{
+        p {
+          font-size: 10px;
+          line-height: 18px;
+          letter-spacing: 0.09em;
+          padding-bottom: 10px;
+        }
+        .mobileApp{
+          width: 78px;
+          margin-left: 3px;
+        }
+      }
+    }
+  }
+}

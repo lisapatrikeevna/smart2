@@ -1,0 +1,47 @@
+.offer {
+  background: url("../../img/offer.jpg")no-repeat center top/cover;
+  //height: 100vh;
+  display: flex;
+  justify-content: center;
+  .textBlock {
+    color: #fff;
+    text-align: center;
+    height: max-content;
+    margin-top: 236px;
+    h1 {
+      font-size: 73px;
+      line-height: 73px;
+      letter-spacing: 0.05em;
+      margin: 0;
+    }
+    h4 {
+      font-family: "Times New Roman";
+      font-weight: bold;
+      font-style: italic;
+      font-size: 26px;
+      margin: 0;
+      opacity: 0.7;
+      letter-spacing: 0.05em;
+    }
+    h6 {
+      font-size: 10px;
+      letter-spacing: 0.07em;
+      font-weight: 400;
+      margin: 2px auto 173px;
+      span{
+        border-bottom: 2px solid #fff;
+      }
+    }
+    .btn{
+      border: 3px solid #fff;
+      border-radius: 3px;
+      font-weight: bold;
+      color: #ffffff;
+      width: 198px;
+      height: 47px;
+      background: transparent;
+      margin: 20px auto;
+    }
+  }
+
+}

@@ -1,0 +1,48 @@
+.background {
+  background: url("../../img/bg2.png") no-repeat center top/cover;
+
+  .carousel-root.name {
+    height: 420px!important;
+    .carousel {
+      height: 368px;
+      margin: 0 auto;
+      .slide {
+        background: transparent;
+        height: 296px;
+        .item img {
+          width: 8%;
+          margin: 57px auto;
+        }
+
+        .legend {
+          margin-left: -318px;
+          width: 655px;
+          font-size: 23px;
+          margin-top: 153px;
+          display: block;
+          font-weight: 100;
+          background: transparent;
+        }
+
+        .autor {
+          color: #fff;
+          opacity: 0.5;
+          font-weight: 100;
+          font-size: 12px;
+          margin-top: 40px;
+        }
+      }
+      .control-dots {
+        margin: 40px auto;
+      }
+    }
+
+    .thumbs.animated, .carousel-status {
+      display: none;
+    }
+
+    .carousel.carousel-slider .control-arrow:hover {
+      background: transparent;
+    }
+  }
+}
