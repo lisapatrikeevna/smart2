@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/test-smart/static/css/main.04572da1.chunk.css",
+    "main.js": "/test-smart/static/js/main.6e52590a.chunk.js",
+    "main.js.map": "/test-smart/static/js/main.6e52590a.chunk.js.map",
+    "runtime-main.js": "/test-smart/static/js/runtime-main.c27e6d3d.js",
+    "runtime-main.js.map": "/test-smart/static/js/runtime-main.c27e6d3d.js.map",
+    "static/css/2.fb346933.chunk.css": "/test-smart/static/css/2.fb346933.chunk.css",
+    "static/js/2.f45b3d57.chunk.js": "/test-smart/static/js/2.f45b3d57.chunk.js",
+    "static/js/2.f45b3d57.chunk.js.map": "/test-smart/static/js/2.f45b3d57.chunk.js.map",
+    "index.html": "/test-smart/index.html",
+    "precache-manifest.a542f8ce702411f4e6e5211b1ea6299d.js": "/test-smart/precache-manifest.a542f8ce702411f4e6e5211b1ea6299d.js",
+    "service-worker.js": "/test-smart/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/test-smart/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.04572da1.chunk.css.map": "/test-smart/static/css/main.04572da1.chunk.css.map",
+    "static/js/2.f45b3d57.chunk.js.LICENSE.txt": "/test-smart/static/js/2.f45b3d57.chunk.js.LICENSE.txt",
+    "static/media/AMERICAN.jpg": "/test-smart/static/media/AMERICAN.fbfccd8c.jpg",
+    "static/media/CHINESE.jpg": "/test-smart/static/media/CHINESE.ec2a6cb8.jpg",
+    "static/media/FRENCH.jpg": "/test-smart/static/media/FRENCH.d1608068.jpg",
+    "static/media/Green.png": "/test-smart/static/media/Green.3853e6d8.png",
+    "static/media/INDIAN.jpg": "/test-smart/static/media/INDIAN.cd6bbbe5.jpg",
+    "static/media/ITALIAN.jpg": "/test-smart/static/media/ITALIAN.184e7109.jpg",
+    "static/media/MEXICAN.jpg": "/test-smart/static/media/MEXICAN.640d2ef9.jpg",
+    "static/media/PIZZA.jpg": "/test-smart/static/media/PIZZA.874560c3.jpg",
+    "static/media/SEAFOOD.jpg": "/test-smart/static/media/SEAFOOD.e7a1cb77.jpg",
+    "static/media/STEAKHOUSE.jpg": "/test-smart/static/media/STEAKHOUSE.a9772551.jpg",
+    "static/media/SUSHI.jpg": "/test-smart/static/media/SUSHI.ad31e45e.jpg",
+    "static/media/Carousel.scss": "/test-smart/static/media/bg2.1e5a2a83.png",
+    "static/media/hh.png": "/test-smart/static/media/hh.d3ee6e7f.png",
+    "static/media/offer.module.scss": "/test-smart/static/media/offer.bcf9a3c8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c27e6d3d.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.f45b3d57.chunk.js",
+    "static/css/main.04572da1.chunk.css",
+    "static/js/main.6e52590a.chunk.js"
+  ]
+}
